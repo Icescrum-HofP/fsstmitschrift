@@ -147,6 +147,16 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "db43e2ad70d3778a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RDP Themen.md"
+              }
+            }
           }
         ],
         "currentTab": 2
