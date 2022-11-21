@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "acb03de4359b3d1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1e69880bb9eafd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5024e9e625e5e2d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "misc/ERD - Entity Realationeship Diagramm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d38e784dac6f7c66",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c39f9738cf6cb77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f74ea2ad4578b57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a5150cb90af6af4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69d88addc123591c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bae536f2c3f60537",
+    "type": "split",
+    "children": [
+      {
+        "id": "339451bd3f1f1b4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21e9c3a10001a8c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "misc/ERD - Entity Realationeship Diagramm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8647592a1aed8c43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "misc/ERD - Entity Realationeship Diagramm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6845be358d4339ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c41878ea68f79f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "misc/ERD - Entity Realationeship Diagramm.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "active": "9f74ea2ad4578b57",
+  "lastOpenFiles": [
+    "Db/DB_Skr_03_UE_ERModellierung.md",
+    "Db/DB_Skr_03_ERModellierung.md",
+    "misc/ERD - Entity Realationeship Diagramm.md",
+    "ReadMe.md",
+    "Db/DB_Skr_01_Einfuehrung.md",
+    "Db/DB_Skr_06_00_DBProgrammierung.md",
+    "Db/DB_Skr_06_01_PHP.md",
+    "Db/DB_Skr_06_01_UE_PHP.md",
+    "Db/DB_Skr_06_02_Nodejs.md",
+    "Db/DB_Skr_06_03_jdbc.md"
+  ]
+}
