@@ -1,3 +1,0 @@
-# Pfeile
-![[relationship.png]]
-
