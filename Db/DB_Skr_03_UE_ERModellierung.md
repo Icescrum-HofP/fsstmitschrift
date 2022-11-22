@@ -16,6 +16,7 @@ Erstellen Sie ein [[DB_Skr_03_ERModellierung#Modellierung im ER-Diagramm|ER-Diag
 - Projekte haben eine Nr, Titel und Budget
 - Abteilungen haben ein Kürzel und einen Namen
 - Abteilungen sind hirarchisch orgranisiert (können (maximal eine) Oberabteilung haben)
+![[bilder/Ermodelue2.svg]]
 
 ## Kardinalitäten
 
@@ -23,47 +24,47 @@ Bestimmen Sie die Kardinalitäten der folg. Beziehungen:
 
 | Kunden beauftragen Projekte                        | N:M  |
 | -------------------------------------------------- | ---- |
-| Firmen erzeugen Produkte                           |      |
-| Mitarbeiter sind einer Abteilung zugeordnet        |      |
-| Ein Schüler geht in eine Klasse                    |      |
-| Studierende besuchen eine oder mehrere Vorlesungen |      |
-| Schüler entlehnen Bücher in der Bibliothek         |      |
-| Ein Mitarbeiter leitet ein Projekt                 |      |
+| Firmen erzeugen Produkte                           | n:m  |
+| Mitarbeiter sind einer Abteilung zugeordnet        | n:1  |
+| Ein Schüler geht in eine Klasse                    | 1:1  |
+| Studierende besuchen eine oder mehrere Vorlesungen | n:m  |
+| Schüler entlehnen Bücher in der Bibliothek         | n:1  |
+| Ein Mitarbeiter leitet ein Projekt                 | 1:1  |
 
 ## Bibliothek
 
 - Bücher:
-  Titel:  Fräulein Smillas Gespür für Schnee
-  Autor: Peter Høeg
-  Verlag: Carl Hanser
-  Ort: München
-  Jahr 1994
-  ISBN 3-499-13599-x
-  Preis 19,90
-  Exemplare 3
-  Zustand gut, sehr gut, gut
-  Standort Zimmer 3, Regal 5, Fach 7,7 und 8, Platz 3, 15,12
+	  Titel:  Fräulein Smillas Gespür für Schnee
+	  Autor: Peter Høeg
+	  Verlag: Carl Hanser
+	  Ort: München
+	  Jahr 1994
+	  ISBN 3-499-13599-x
+	  Preis 19,90
+	  Exemplare 3
+	  Zustand gut, sehr gut, gut
+	  Standort Zimmer 3, Regal 5, Fach 7,7 und 8, Platz 3, 15,12
 - Autoren:
-  Name Høeg
-  Vorname Peter
-  Land Dänemark
-  andere Buchtitel „Der Plan von der Abschaffung des Dunkels“
+	  Name Høeg
+	  Vorname Peter
+	  Land Dänemark
+	  andere Buchtitel „Der Plan von der Abschaffung des Dunkels“
 - Kunde:
-  Name Meier
-  Vorname Peter
-  Geburtsdatum 24.4.1966
-  Straße Tegtmüllerweg 9
-  PLZ 80089
-  Ort München
-  Telefon (089) 383 245 12
-  Sperre keine
-  Ein Kunde kann ein Examplar kein Buch ausleihen
+	  Name Meier
+	  Vorname Peter
+	  Geburtsdatum 24.4.1966
+	  Straße Tegtmüllerweg 9
+	  PLZ 80089
+	  Ort München
+	  Telefon (089) 383 245 12
+	  Sperre keine
+	  Ein Kunde kann ein Examplar kein Buch ausleihen
 - Es kann mehrere Examplares eines Buches geben
 - Standort eines Exemplares:
-  Platz 3
-  Fach 7
-  Regal 5
-  Zimmer 3
+	  Platz 3
+	  Fach 7
+	  Regal 5
+	  Zimmer 3
 - Ein Kunde kann ein Buch ausleihen (unter Angabe von Datum und Bearbeiter)
 
 Überlegen Sie sich wie eine Datenbank in einer hohen Normalform organisiert werden kann.
