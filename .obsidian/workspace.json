@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Db/DB_Skr_02_Normalformen.md",
+                "file": "Db/DB_Skr_03_ERModellierung.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Db/DB_Skr_02_Normalformen.md",
+                "file": "Db/DB_Skr_03_ERModellierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Db/DB_Skr_02_Normalformen.md",
+                "file": "Db/DB_Skr_03_ERModellierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Db/DB_Skr_02_Normalformen.md"
+                "file": "Db/DB_Skr_03_ERModellierung.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "ea0b9c693db0ef84",
   "lastOpenFiles": [
+    "Db/DB_Skr_04_Sql.md",
+    "Db/DB_Skr_02_Normalformen.md",
+    "Db/DB_Skr_02_UE_Normalformen.md",
     "SEng/02_SEng/SEng_Skr_04_UML.md",
+    "SEng/02_SEng/SEng_Skr_04_Ue_UML.md",
+    "Db/DB_Skr_01_Einfuehrung.md",
     "SEng/02_SEng/SEng_Skr_00_Intro.jpg",
     "SEng/02_SEng/Seng_Skr_01_SoftwareEngineering.md",
     "SEng/02_SEng/SEng_Skr_01_Ue_SoftwareEngineering.md",
-    "Db/DB_Skr_06_01_PHP.md",
-    "Db/DB_Skr_04_Sql.md",
-    "conflict-files-obsidian-git.md",
-    "ksn/Streuparameter.md",
-    "hwe/Sperrwandler.md",
-    "Eintakt-Durchflusswandler.md"
+    "Db/DB_Skr_06_01_PHP.md"
   ]
 }
