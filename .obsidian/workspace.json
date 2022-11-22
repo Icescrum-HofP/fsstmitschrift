@@ -145,15 +145,13 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
-  "active": "08333b3cd755915e",
+  "active": "0e359560b151b2bc",
   "lastOpenFiles": [
     "Db/DB_Skr_01_Einfuehrung.md",
     "Db/DB_Skr_02_Normalformen.md",
