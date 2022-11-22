@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "05f7156affbc596f",
+        "id": "5863168f8a673572",
         "type": "tabs",
         "children": [
           {
             "id": "b01d206c78400f8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEng/02_SEng/SEng_Skr_04_UML.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "570007dad4d13e7e",
+            "id": "ea0b9c693db0ef84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDP Themen.md",
+                "file": "Db/DB_Skr_02_Normalformen.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDP Themen.md",
+                "file": "Db/DB_Skr_02_Normalformen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDP Themen.md",
+                "file": "Db/DB_Skr_02_Normalformen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,21 +137,21 @@
             }
           },
           {
+            "id": "62e723d0b14a535e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Db/DB_Skr_02_Normalformen.md"
+              }
+            }
+          },
+          {
             "id": "c43c2b481880d33a",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
               "state": {}
-            }
-          },
-          {
-            "id": "db43e2ad70d3778a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "RDP Themen.md"
-              }
             }
           }
         ],
@@ -163,20 +159,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
-  "active": "570007dad4d13e7e",
+  "active": "ea0b9c693db0ef84",
   "lastOpenFiles": [
     "SEng/02_SEng/SEng_Skr_04_UML.md",
+    "SEng/02_SEng/SEng_Skr_00_Intro.jpg",
+    "SEng/02_SEng/Seng_Skr_01_SoftwareEngineering.md",
     "SEng/02_SEng/SEng_Skr_01_Ue_SoftwareEngineering.md",
-    "Sec/Sec_Skr_02_Authentifikation.md",
-    "Sec/Sec_Skr_01_Ue_Kryptographie.md",
-    "Sec/Sec_Skr_01_Kryptographie.md",
-    "Db/DB_Skr_01_Einfuehrung.md",
-    "Db/DB_Skr_02_Normalformen.md",
-    "Algo/Algo_Skr_01_Rekursion.md",
-    "Algo/Algo_Skr_00_Ue_CWiederholung.md",
-    "Algo/Algo_Skr_00_CWiederholung.md"
+    "Db/DB_Skr_06_01_PHP.md",
+    "Db/DB_Skr_04_Sql.md",
+    "conflict-files-obsidian-git.md",
+    "ksn/Streuparameter.md",
+    "hwe/Sperrwandler.md",
+    "Eintakt-Durchflusswandler.md"
   ]
 }
