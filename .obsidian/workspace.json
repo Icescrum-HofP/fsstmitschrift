@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bdc380cbdc28ce9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Db/DB_Skr_02_Normalformen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDP Themen.md",
+                "file": "Db/DB_Skr_02_Normalformen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDP Themen.md",
+                "file": "Db/DB_Skr_02_Normalformen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,6 +159,16 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "b5643c8ff97845ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Db/DB_Skr_02_Normalformen.md"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -156,17 +178,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "570007dad4d13e7e",
+  "active": "bdc380cbdc28ce9b",
   "lastOpenFiles": [
     "SEng/02_SEng/SEng_Skr_04_UML.md",
+    "SEng/02_SEng/SEng_Skr_04_Ue_UML.md",
+    "SEng/02_SEng/SEng_Skr_06_Doxygen.md",
+    "SEng/02_SEng/SEng_Skr_02_Scrum.md",
+    "SEng/02_SEng/SEng_Skr_00_Intro.jpg",
+    "SEng/02_SEng/Seng_Skr_01_SoftwareEngineering.md",
+    "Test 23.11.2022.md",
+    "RDP Themen.md",
     "SEng/02_SEng/SEng_Skr_01_Ue_SoftwareEngineering.md",
-    "Sec/Sec_Skr_02_Authentifikation.md",
-    "Sec/Sec_Skr_01_Ue_Kryptographie.md",
-    "Sec/Sec_Skr_01_Kryptographie.md",
-    "Db/DB_Skr_01_Einfuehrung.md",
-    "Db/DB_Skr_02_Normalformen.md",
-    "Algo/Algo_Skr_01_Rekursion.md",
-    "Algo/Algo_Skr_00_Ue_CWiederholung.md",
-    "Algo/Algo_Skr_00_CWiederholung.md"
+    "Sec/Sec_Skr_02_Authentifikation.md"
   ]
 }

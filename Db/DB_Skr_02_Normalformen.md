@@ -55,7 +55,7 @@ In der obigen 1.Normalform gibt es für die angeführte Rechnung *187* mehrere R
 
 Um diese Bedingung zu erfüllen (und in die 2.NF zu entwickeln) muss daher auf neue Tabellen aufgeteilt werden:
 
-![img](bilder/NF_Einf_03.png)
+![img](bilder/NF_Einf_04.png)
 
 Hier gilt für jedes Attribut: es ist durch den Primärschlüssel bestimmt. Allgemein gilt:
 
@@ -70,7 +70,7 @@ Für diese Normalform werden zusätzlich aus einer Tabelle direkt abhängige Att
 
 Für unser Beispiel gilt: mit der Postleitzahl ist der Ort eindeutig bestimmt und wird daher abgespaltet:
 
-![img](bilder/NF_Einf_04.png)
+![img](bilder/NF_Einf_03.png)
 
 - wenn ein Attribut *transitiv* vom Primärschlüssel abhängt ist es nicht in der 3ten NF. *Musterort* kann schon durch *Plz* alleine bestimmt werden. Transitiv: Ort hängt über die *Plz* von *KNr* ab.
 
