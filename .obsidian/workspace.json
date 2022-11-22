@@ -15,7 +15,7 @@
               "state": {
                 "file": "SEng/02_SEng/SEng_Skr_04_UML.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "RDP Themen.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -38,8 +38,8 @@
               "type": "markdown",
               "state": {
                 "file": "Db/DB_Skr_02_Normalformen.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -180,15 +180,15 @@
   },
   "active": "bdc380cbdc28ce9b",
   "lastOpenFiles": [
+    "Db/DB_Skr_03_UE_ERModellierung.md",
+    "Db/DB_Skr_03_ERModellierung.md",
+    "RDP Themen.md",
+    "Db/DB_Skr_02_Normalformen.md",
     "SEng/02_SEng/SEng_Skr_04_UML.md",
     "SEng/02_SEng/SEng_Skr_04_Ue_UML.md",
     "SEng/02_SEng/SEng_Skr_06_Doxygen.md",
     "SEng/02_SEng/SEng_Skr_02_Scrum.md",
     "SEng/02_SEng/SEng_Skr_00_Intro.jpg",
-    "SEng/02_SEng/Seng_Skr_01_SoftwareEngineering.md",
-    "Test 23.11.2022.md",
-    "RDP Themen.md",
-    "SEng/02_SEng/SEng_Skr_01_Ue_SoftwareEngineering.md",
-    "Sec/Sec_Skr_02_Authentifikation.md"
+    "SEng/02_SEng/Seng_Skr_01_SoftwareEngineering.md"
   ]
 }
