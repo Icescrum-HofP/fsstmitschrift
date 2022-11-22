@@ -11,5 +11,5 @@
     "downscalePercent": 65
   },
   "promptDelete": false,
-  "livePreview": false
+  "livePreview": true
 }

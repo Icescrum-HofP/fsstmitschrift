@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "05f7156affbc596f",
+        "id": "19a26c28de1b31ae",
         "type": "tabs",
         "children": [
           {
-            "id": "b01d206c78400f8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEng/02_SEng/SEng_Skr_04_UML.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "570007dad4d13e7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RDP Themen.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bdc380cbdc28ce9b",
+            "id": "08333b3cd755915e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Db/DB_Skr_02_Normalformen.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279
+    "width": 200
   },
   "right": {
     "id": "8477e7e09a934947",
@@ -178,17 +153,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "bdc380cbdc28ce9b",
+  "active": "08333b3cd755915e",
   "lastOpenFiles": [
+    "Db/DB_Skr_01_Einfuehrung.md",
+    "Db/DB_Skr_02_Normalformen.md",
     "Db/DB_Skr_03_UE_ERModellierung.md",
     "Db/DB_Skr_03_ERModellierung.md",
     "RDP Themen.md",
-    "Db/DB_Skr_02_Normalformen.md",
     "SEng/02_SEng/SEng_Skr_04_UML.md",
     "SEng/02_SEng/SEng_Skr_04_Ue_UML.md",
     "SEng/02_SEng/SEng_Skr_06_Doxygen.md",
     "SEng/02_SEng/SEng_Skr_02_Scrum.md",
-    "SEng/02_SEng/SEng_Skr_00_Intro.jpg",
-    "SEng/02_SEng/Seng_Skr_01_SoftwareEngineering.md"
+    "SEng/02_SEng/SEng_Skr_00_Intro.jpg"
   ]
 }
