@@ -28,7 +28,7 @@ Auch die Datentypen können von Datenbank zu Datenbank unterschiedlich sein.
 
 Für die folgenden Erklärungen hilft es mit einer Beispieldatenbank *my_einkauf* zu arbeiten:
 
-![SQL_DML_01](C:\Daten\Skripten\Informatik\DB\bilder\SQL_DML_01.png)
+![SQL_DML_01](bilder/SQL_DML_01.png)
 
 Sie können dafür folgendes Skript verwenden:
 
@@ -80,7 +80,7 @@ SELECT kunden.knr, bestellungen.bnr FROM bestellungen, kunden;
 
 Hier wird eine Tabelle mit den Spalten *knr* und *bnr* generiert. Durch die zweite Tabelle wird jede knr aus *kunden* sooft ausgegeben wie *bestellungen* Zeilen hat (Kreuzprodukt).
 
-![SQL_DML_02](C:\Daten\Skripten\Informatik\DB\bilder\SQL_DML_02.png)
+![SQL_DML_02](bilder/SQL_DML_02.png)
 
 Umbenennen von Spalten:
 
@@ -465,7 +465,7 @@ DROP DATABASE myDb;
 
    Es kann auch auf sich selbst referenziert werden:
 
-   ```
+   ```sql
    CREATE TABLE Personal(
        Persnr INT PRIMARY KEY,
        NAME CHAR(25) NOT NULL,
@@ -484,7 +484,7 @@ DROP DATABASE myDb;
 
 Löschen von Tabellen funktioniert nur wenn nicht auf sie referenziert ist:
 
-```
+```sql
 DROP TABLE myTab;
 ```
 
@@ -501,25 +501,25 @@ Im aktuell ausgewählten Schema (`use myDb`):
 
 2. Spalte Löschen (die betroffene Spalte darf kein Schlüssel sein):
 
-   ```
+   ```sql
    ALTER TABLE myTab DROP COLUMN myVal;
    ```
 
 3. Spalte Einfügen:
 
-   ```
+   ```sql
    ALTER TABLE myTab ADD COLUMN myVal VARCHAR(50);
    ```
 
 4. [[DB_Skr_01_Einfuehrung#**Primärschlüssel**|Primärschlüssel]] Setzen (hier zwei Spalten gemeinsam):
 
-   ```
+   ```sql
    ALTER TABLE myTab ADD PRIMARY KEY (myNum, myVal);
    ```
 
 5. Erzeugen eines Fremdschlüssels mit Namen FK_myVal_coolVal. Dafür muss es in Tabelle *myTab* eine Spalte *myVal* geben und in der Tabelle *coolTab* eine Spalte *coolVal* (mit gleichem Typ!):
 
-   ```
+   ```sql
    ALTER TABLE myTab ADD CONSTRAINT FK_myVal_coolVal FOREIGN KEY (myVal) REFERENCES coolTab(coolVal);
    ```
 
@@ -613,7 +613,7 @@ SELECT * FROM xy$$
 DELIMITER ;
 ```
 
-Mit *DELIMITER* wird der Zeilenabschluss auf $$ verändert, damit wird diese Kombination in der Zeile danach anstatt des Semikolons verwendet, abschließend wird der Zeilenabschluss wieder zurück geändert. 
+Mit *DELIMITER* wird der Zeilenabschluss auf  verändert, damit wird diese Kombination in der Zeile danach anstatt des Semikolons verwendet, abschließend wird der Zeilenabschluss wieder zurück geändert. 
 
 ### Berechtigungen
 

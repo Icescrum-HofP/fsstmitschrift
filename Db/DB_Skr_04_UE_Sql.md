@@ -236,7 +236,7 @@ https://www.webucator.com/tutorial/learn-sql/subqueries-joins-unions.cfm
 ### Trigger
 
 Das Einkauf-Schema soll erweitert werden.
-![php_einkauf00](C:\Daten\Skripten\Informatik\DB\bilder\php_einkauf00.png)
+![php_einkauf00](bilder/php_einkauf00.png)
 
 Dazu soll in der Kunden-Tabelle das Attribut *numbest* eingefügt werden. Es soll die Anzahl der Bestellungen beinhalten. Grundsätzlich soll im Entwurf darauf geachtet werden dass das Datenbanksystem selbstständig auf die Konsistenz/Integrität achtet. Die Zahl eines Kunden ist mit den Einträgen in der Tabelle *bestellungen* verknüpft. Soviele Bestellung-Tupel ein Kunde hat, so groß soll die *numbest*-Zahl sein. Um diese Zahl immer korrekt zu halten hat das Setzen durch einen Trigger zu erfolgen:
 
@@ -256,7 +256,7 @@ Dazu soll in der Kunden-Tabelle das Attribut *numbest* eingefügt werden. Es sol
 
 Fügen Sie eine weitere Tabelle *verkaeufer* ein. Die Struktur soll dadurch folgende Form bekommen:
 
-![sql_einkauf00](C:\Daten\Skripten\Informatik\DB\bilder\sql_einkauf00.png)
+![sql_einkauf00](bilder/sql_einkauf00.png)
 
 Die Fremdschlüsselbeziehungen sind entsprechend zu Setzen.
 
