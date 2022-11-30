@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Db/DB_Skr_02_Normalformen.md",
+                "file": "Db/DB_Skr_04_Sql.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Db/DB_Skr_02_Normalformen.md",
+                "file": "Db/DB_Skr_04_Sql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Db/DB_Skr_02_Normalformen.md",
+                "file": "Db/DB_Skr_04_Sql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Db/DB_Skr_02_Normalformen.md"
+                "file": "Db/DB_Skr_04_Sql.md"
               }
             }
           }
@@ -153,15 +153,15 @@
   },
   "active": "08333b3cd755915e",
   "lastOpenFiles": [
-    "Db/DB_Skr_04_Sql.md",
     "SEng/02_SEng/Seng_Skr_01_SoftwareEngineering.md",
+    "Db/DB_Skr_02_Normalformen.md",
+    "Db/DB_Skr_04_Sql.md",
     "SEng/02_SEng/SEng_Skr_04_UML.md",
     "SEng/02_SEng/SEng_Skr_04_Ue_UML.md",
     "SEng/02_SEng/SEng_Skr_04_UML_Plakat_UML_Plakat-2018web.pdf",
     "SEng/02_SEng/SEng_Skr_04_UML_Plakat_Notationsübersicht-2.5.pdf",
     "Db/DB_Skr_03_ERModellierung.md",
     "Db/DB_Skr_02_UE_Normalformen.md",
-    "Db/bilder/NF_Projekt_08.png",
-    "Db/bilder/NF_Projekt_07.png"
+    "Db/bilder/NF_Projekt_08.png"
   ]
 }

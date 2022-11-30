@@ -49,13 +49,14 @@ In der obigen 1.Normalform gibt es für die angeführte Rechnung *187* mehrere R
 
 ​	*Jedes Nichtschlüsselattribut ist von jedem Schlüsselkandidaten voll funktional abhängig.*
 
+
 - Für die bisherige Tabelle gibt es den Primärschlüssel: (*RNr* + *Artikel*) also beide zusammen. Für die 2. NF muss jedes Attribut von diesen beiden Teilen voll funktional abhängen. Der *Preis* kann alleine mit *Artikel* bestimmt werden und ist damit nicht von *RNr* abhängig.
 - Der Name *Mustermann* kann von der *RNr* alleine bestimmt werden, ist also nicht vom *Artikel* abhängig.
 - Die Anzahl ist nicht nur von der *RNr* oder nur vom Artikel abhängig sondern von Beiden gemeinsam.
 
 Um diese Bedingung zu erfüllen (und in die 2.NF zu entwickeln) muss daher auf neue Tabellen aufgeteilt werden:
 
-![img](bilder/NF_Einf_03.png)
+![img](bilder/NF_Einf_04.png)
 
 Hier gilt für jedes Attribut: es ist durch den Primärschlüssel bestimmt. Allgemein gilt:
 
@@ -70,7 +71,7 @@ Für diese Normalform werden zusätzlich aus einer Tabelle direkt abhängige Att
 
 Für unser Beispiel gilt: mit der Postleitzahl ist der Ort eindeutig bestimmt und wird daher abgespaltet:
 
-![img](bilder/NF_Einf_04.png)
+![img](bilder/NF_Einf_05_1.png)
 
 - wenn ein Attribut *transitiv* vom Primärschlüssel abhängt ist es nicht in der 3ten NF. *Musterort* kann schon durch *Plz* alleine bestimmt werden. Transitiv: Ort hängt über die *Plz* von *KNr* ab.
 
