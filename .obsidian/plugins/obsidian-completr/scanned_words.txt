@@ -12063,6 +12063,7 @@ Suche
 Sichten
 Semikolons
 Start
+Singelton
 Inverswandler
 Indukitivät
 ID
@@ -18128,6 +18129,7 @@ DATETIME
 DELIMITER
 Datenbankzugriffe
 Dürfen
+Desingpattern
 nach
 nur
 nD
@@ -22156,6 +22158,7 @@ dqVKtZ
 decimal
 definierte
 drinnen
+detailiert
 geschlossen
 geschlossenen
 gespeicherten
@@ -24132,6 +24135,7 @@ gefilterte
 geändert
 gekapselt
 guter
+gespritzt
 Mindestlaststrom
 Ma
 Mt
@@ -38525,6 +38529,7 @@ Fremdschlüsselbeziehung
 FirstName
 Fehlermeldung
 Fülle
+Factory
 fließt
 für
 fFOlq
@@ -40500,6 +40505,7 @@ fester
 folgend
 fehlt
 fremder
+füllen
 über
 übertragen
 üR
@@ -50655,6 +50661,7 @@ betroffene
 beschleunigen
 beschleunigt
 behoben
+befehle
 in
 ihr
 iz
@@ -94434,6 +94441,7 @@ zDZbSQ
 zeiligen
 zeilige
 zutrifft
+zeit
 Qu
 QCQ
 QlFq
